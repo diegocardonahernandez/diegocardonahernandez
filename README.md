@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Diego Alexander Cardona Hernández
-Soy estudiante de Desarrollo de Aplicaciones Web . Siempre estoy buscando aprender y mejorar mis habilidades mientras colaboro en proyectos interesantes.
+y Soy estudiante de Desarrollo de Aplicaciones Web .
 
 🚀 Sobre mí
 Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Web, donde estoy adquiriendo una sólida base en tecnologías web. Mi objetivo es crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una gran experiencia de usuario.
