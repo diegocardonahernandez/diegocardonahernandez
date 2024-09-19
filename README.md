@@ -5,7 +5,6 @@ Actualmente, estoy cursando un Grado Superior en Desarrollo de Aplicaciones Web,
 
 Me encanta resolver problemas y encontrar nuevas formas de optimizar y mejorar procesos a través del código. Mi enfoque está en aprender cada día más y aplicar esos conocimientos en proyectos reales.
 
-🛠️ Tecnologías y Habilidades
 💻 Lenguajes de programación:
     • Java
     • JavaScript
