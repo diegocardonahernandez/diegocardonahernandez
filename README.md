@@ -1,8 +1,8 @@
 # 👋 Bienvenido a mi perfil de GitHub  
 
-Actualmente curso un **Máster en Desarrollo Full Stack y Arquitecturas Cloud**
+Actualmente curso un **Máster en Desarrollo Full Stack y Arquitecturas Cloud**.
 ### 📚 En formación
-- Angular, React, Vue.js  
+- Angular, React, Vue.js, jQuery  
 - Power Platform (PL-400)  
 - C#, SQL Server, Entity Framework  
 - ASP.NET Core  
